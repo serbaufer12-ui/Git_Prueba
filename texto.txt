@@ -1,5 +1,5 @@
-class Hola {
- public static void main(String[] args){
- System.out.println("Welcome to the Java World");
- }
-}
+1uno
+2dos
+3tres
+PEDRO
+Hola
