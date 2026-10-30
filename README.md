@@ -1,7 +1,6 @@
 # Practica Guiada de Git
 
 * **Modulo:** Afondamento nas competencias profesionais
-* **Ciclo:** DAM (2º Curso)
 * **Alumno:** Sergio F. B.
 * **Repositorio:** `prueba_git`
 
