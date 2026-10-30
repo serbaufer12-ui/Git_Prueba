@@ -562,10 +562,36 @@ $ git branch
 
 ```
 
-## 1.1 Trabajar en la rama Prueba
+## 1.2 Trabajar en la rama Prueba
+
+`$ git commit -a -m "Llegan los Ents a Java"` el -a incluye automaticamente los archivos
+ya seguidos sin hacer el `git add`.
+
+```bash 
+
+Sergio F.B@DESKTOP-G0V6A3S MINGW64 ~/Desktop/prueba_git (Prueba)
+$ nano hola.java
+
+Sergio F.B@DESKTOP-G0V6A3S MINGW64 ~/Desktop/prueba_git (Prueba)
+$ git commit -a -m "Llegan los Ents a Java"
+[Prueba 1da1f37] Llegan los Ents a Java
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hola.java
+
+```
+
+## 1.3 Fusionar ramas
+
+`$ git commit -a -m "Llegan los Ents a Java"` el -a incluye automaticamente los archivos
+ya seguidos sin hacer el `git add`.
 
 ```bash 
 
 
+
 ```
+
+
+
+
 
